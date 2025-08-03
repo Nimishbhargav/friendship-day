@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/friendship-day-site.git
+git clone https://github.com/Nimishbhargav/friendship-day-site.git
 
 # Navigate into the folder
 cd friendship-day-site
@@ -56,3 +56,4 @@ Made with emotions by **Anuj** – _@anujbuilds_
 ✨ If you'd like to support my work directly, you can donate via UPI:  
 **anujbuilds.wallet@phonepe**  
 Even a small contribution helps me keep creating cute, emotional projects 💖
+
